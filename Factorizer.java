@@ -88,5 +88,6 @@ public class Factorizer {
         // Testing reduce method
         System.out.println("Reduce 36/12: " + factorizer.reduce(36, 12)); 
         System.out.println("Reduce 12/14: " + factorizer.reduce(12, 14)); 
+        ///gfjhhgkh
     }
 }
